@@ -9,7 +9,7 @@ module.exports = {
     ],
 
     use: {
-      baseURL: 'https://practicesoftwaretesting.com',
+      baseURL: 'https://practicesoftwaretesting.com/#/',
       headless: true,
       viewport: { width: 1280, height: 720 },
       actionTimeout: 15000,
